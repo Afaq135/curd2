@@ -1,0 +1,10 @@
+.env
+.env/
+node_modules/
+dist/
+build/
+images/
+uploads/
+package-lock.json/
+
+
